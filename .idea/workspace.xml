@@ -5,6 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="38c3062b-a347-40e7-a111-04edb12a38ff" name="Default" comment="">
+      <change type="MOVED" beforePath="$PROJECT_DIR$/attorney/instruction_record_management/doctype/our_instruction/__init__.py" afterPath="$PROJECT_DIR$/attorney/instruction_record_management/doctype/instruction/__init__.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/attorney/instruction_record_management/doctype/our_instruction/our_instruction.js" afterPath="$PROJECT_DIR$/attorney/instruction_record_management/doctype/instruction/instruction.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/attorney/instruction_record_management/doctype/our_instruction/our_instruction.json" afterPath="$PROJECT_DIR$/attorney/instruction_record_management/doctype/instruction/instruction.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/attorney/instruction_record_management/doctype/our_instruction/our_instruction.py" afterPath="$PROJECT_DIR$/attorney/instruction_record_management/doctype/instruction/instruction.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/attorney/instruction_record_management/doctype/our_instruction/our_instruction_dashboard.py" afterPath="$PROJECT_DIR$/attorney/instruction_record_management/doctype/instruction/instruction_dashboard.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/attorney/instruction_record_management/doctype/our_instruction/test_our_instruction.js" afterPath="$PROJECT_DIR$/attorney/instruction_record_management/doctype/instruction/test_instruction.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/attorney/instruction_record_management/doctype/our_instruction/test_our_instruction.py" afterPath="$PROJECT_DIR$/attorney/instruction_record_management/doctype/instruction/test_instruction.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/attorney.iml" afterPath="$PROJECT_DIR$/.idea/attorney.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/attorney/instruction_record_management/doctype/we_act_for/we_act_for.json" afterPath="$PROJECT_DIR$/attorney/instruction_record_management/doctype/we_act_for/we_act_for.json" />
     </list>
     <ignored path="attorney.iws" />
@@ -26,36 +36,70 @@
     <favorites_list name="attorney" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.5">
-      <split-first>
-        <leaf>
-          <file leaf-file-name="litigation_status.json" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/attorney/instruction_record_management/doctype/litigation_status/litigation_status.json">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="30">
-                  <caret line="2" column="27" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf>
-          <file leaf-file-name="we_act_for.json" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/attorney/instruction_record_management/doctype/we_act_for/we_act_for.json">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="536">
-                  <caret line="71" column="18" selection-start-line="71" selection-start-column="18" selection-end-line="71" selection-end-column="18" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
+    <leaf>
+      <file leaf-file-name="instruction.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/attorney/instruction_record_management/doctype/instruction/instruction.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="instruction.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/attorney/instruction_record_management/doctype/instruction/instruction.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-21723">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="instruction.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/attorney/instruction_record_management/doctype/instruction/instruction.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="instruction_dashboard.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/attorney/instruction_record_management/doctype/instruction/instruction_dashboard.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-414">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test_instruction.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/attorney/instruction_record_management/doctype/instruction/test_instruction.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test_instruction.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/attorney/instruction_record_management/doctype/instruction/test_instruction.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -93,6 +137,9 @@
         <option value="$PROJECT_DIR$/attorney/instruction_record_management/doctype/contacts_locator/contacts_locator.json" />
         <option value="$PROJECT_DIR$/attorney/instruction_record_management/doctype/contacts_locator_role/contacts_locator_role.json" />
         <option value="$PROJECT_DIR$/attorney/instruction_record_management/doctype/we_act_for/we_act_for.json" />
+        <option value="$PROJECT_DIR$/attorney/instruction_record_management/doctype/instruction/test_instruction.py" />
+        <option value="$PROJECT_DIR$/attorney/instruction_record_management/doctype/instruction/instruction.js" />
+        <option value="$PROJECT_DIR$/attorney/instruction_record_management/doctype/instruction/instruction.py" />
       </list>
     </option>
   </component>
@@ -228,33 +275,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="we_act_for" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="attorney" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="attorney" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="attorney" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="instruction_record_management" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="doctype" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="litigation_status" />
+              <option name="myItemId" value="instruction" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -515,6 +536,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32903227" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3419355" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24940239" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -526,7 +548,6 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3419355" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
@@ -559,8 +580,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/attorney/attorney/doctype/attorney_settings/test_attorney_settings.py" />
-    <entry file="file://$PROJECT_DIR$/attorney/attorney/doctype/lab_test/test_lab_test.py" />
     <entry file="file://$PROJECT_DIR$/attorney/attorney/doctype/lab_test/lab_test_list.js" />
     <entry file="file://$PROJECT_DIR$/attorney/attorney/doctype/lab_test/__init__.py" />
     <entry file="file://$PROJECT_DIR$/attorney/attorney/doctype/lab_test/lab_test.json" />
@@ -636,35 +655,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/attorney/instruction_record_management/doctype/our_instruction/our_instruction.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-22880">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/attorney/instruction_record_management/doctype/our_instruction/our_instruction.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/attorney/instruction_record_management/doctype/our_instruction/our_instruction_dashboard.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/attorney/instruction_record_management/doctype/our_instruction/test_our_instruction.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="141">
-          <caret line="12" column="33" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/attorney/instruction_record_management/doctype/court_district/court_district.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
@@ -712,6 +702,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/attorney/instruction_record_management/doctype/litigation_status/litigation_status.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="27" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/attorney/instruction_record_management/doctype/we_act_for/we_act_for.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="536">
@@ -720,10 +718,52 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/attorney/instruction_record_management/doctype/litigation_status/litigation_status.json">
+    <entry file="file://$PROJECT_DIR$/attorney/instruction_record_management/doctype/instruction/test_instruction.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="27" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
+        <state relative-caret-position="75">
+          <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/attorney/instruction_record_management/doctype/instruction/test_instruction.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/attorney/instruction_record_management/doctype/instruction/instruction_dashboard.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-414">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/attorney/instruction_record_management/doctype/instruction/instruction.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/attorney/instruction_record_management/doctype/instruction/instruction.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-21723">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/attorney/instruction_record_management/doctype/instruction/instruction.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
           <folding />
         </state>
       </provider>
