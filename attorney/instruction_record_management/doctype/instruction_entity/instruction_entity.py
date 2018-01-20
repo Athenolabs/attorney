@@ -4,10 +4,15 @@
 
 from __future__ import unicode_literals
 import frappe
+import re
 from frappe.model.document import Document
+from frappe import utils
+import datetime
+
 
 # class InstructionEntity(Document):
 # 	pass
+from frappe.model.naming import make_autoname
 
 
 class InstructionEntity(Document):
@@ -24,4 +29,24 @@ class InstructionEntity(Document):
 		naming_series
 		entity_name
 		"""
-		self.name = self.naming_series + '-' + self.entity_name
+		# self.name = self.naming_series + '-' + self.entity_name
+		# self.name = make_autoname(self.entity_name + ' (ENT' + '/.#####')
+
+		a_now = utils.nowdate()
+		datee = datetime.datetime.strptime(a_now, "%Y-%m-%d")
+		a_month = datee.month
+		a_day = datee.day
+		a_year = datee.year
+
+		a = re.sub(r'\s+', '', self.entity_name.__str__().upper())
+		a = re.sub(r'\s+', '', a)
+		b = a[0:3]
+
+		c = '%s - %s/%s/%s' % (self.entity_name, b, a_month, a_year)
+		self.name = make_autoname(c + '/.#####')
+
+	def validate(self):
+		if not self.internal_reference:
+			self.internal_reference = self.name
+
+
