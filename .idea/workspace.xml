@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="38c3062b-a347-40e7-a111-04edb12a38ff" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/attorney/instruction_record_management/doctype/we_act_for/we_act_for.json" afterPath="$PROJECT_DIR$/attorney/instruction_record_management/doctype/we_act_for/we_act_for.json" />
     </list>
     <ignored path="attorney.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -26,38 +26,36 @@
     <favorites_list name="attorney" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="court_address.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/attorney/instruction_record_management/doctype/court_address/court_address.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="58" column="41" selection-start-line="58" selection-start-column="12" selection-end-line="58" selection-end-column="41" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="contacts_locator_role.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/attorney/instruction_record_management/doctype/contacts_locator_role/contacts_locator_role.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="58" column="41" selection-start-line="58" selection-start-column="41" selection-end-line="58" selection-end-column="41" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="contacts_locator.json" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/attorney/instruction_record_management/doctype/contacts_locator/contacts_locator.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="305">
-              <caret line="120" column="41" selection-start-line="120" selection-start-column="41" selection-end-line="120" selection-end-column="41" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.5">
+      <split-first>
+        <leaf>
+          <file leaf-file-name="litigation_status.json" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/attorney/instruction_record_management/doctype/litigation_status/litigation_status.json">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="30">
+                  <caret line="2" column="27" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file leaf-file-name="we_act_for.json" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/attorney/instruction_record_management/doctype/we_act_for/we_act_for.json">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="536">
+                  <caret line="71" column="18" selection-start-line="71" selection-start-column="18" selection-end-line="71" selection-end-column="18" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -94,6 +92,7 @@
         <option value="$PROJECT_DIR$/attorney/instruction_record_management/doctype/attorney/attorney.json" />
         <option value="$PROJECT_DIR$/attorney/instruction_record_management/doctype/contacts_locator/contacts_locator.json" />
         <option value="$PROJECT_DIR$/attorney/instruction_record_management/doctype/contacts_locator_role/contacts_locator_role.json" />
+        <option value="$PROJECT_DIR$/attorney/instruction_record_management/doctype/we_act_for/we_act_for.json" />
       </list>
     </option>
   </component>
@@ -229,7 +228,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="court_address" />
+              <option name="myItemId" value="we_act_for" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -255,33 +254,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="contacts_locator_role" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="attorney" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="attorney" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="attorney" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="instruction_record_management" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="doctype" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="contacts_locator" />
+              <option name="myItemId" value="litigation_status" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -586,7 +559,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/attorney/attorney/doctype/attorney_settings/attorney_settings.json" />
     <entry file="file://$PROJECT_DIR$/attorney/attorney/doctype/attorney_settings/test_attorney_settings.py" />
     <entry file="file://$PROJECT_DIR$/attorney/attorney/doctype/lab_test/test_lab_test.py" />
     <entry file="file://$PROJECT_DIR$/attorney/attorney/doctype/lab_test/lab_test_list.js" />
@@ -701,14 +673,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/attorney/instruction_record_management/doctype/we_act_for/we_act_for.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="18" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/attorney/instruction_record_management/doctype/attorney/attorney.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="118">
@@ -724,10 +688,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/attorney/instruction_record_management/doctype/court_address/court_address.json">
+    <entry file="file://$PROJECT_DIR$/attorney/instruction_record_management/doctype/contacts_locator/contacts_locator.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="58" column="41" selection-start-line="58" selection-start-column="12" selection-end-line="58" selection-end-column="41" />
+        <state relative-caret-position="305">
+          <caret line="120" column="41" selection-start-line="120" selection-start-column="41" selection-end-line="120" selection-end-column="41" />
           <folding />
         </state>
       </provider>
@@ -740,10 +704,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/attorney/instruction_record_management/doctype/contacts_locator/contacts_locator.json">
+    <entry file="file://$PROJECT_DIR$/attorney/instruction_record_management/doctype/court_address/court_address.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="305">
-          <caret line="120" column="41" selection-start-line="120" selection-start-column="41" selection-end-line="120" selection-end-column="41" />
+        <state relative-caret-position="126">
+          <caret line="58" column="41" selection-start-line="58" selection-start-column="12" selection-end-line="58" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/attorney/instruction_record_management/doctype/we_act_for/we_act_for.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="536">
+          <caret line="71" column="18" selection-start-line="71" selection-start-column="18" selection-end-line="71" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/attorney/instruction_record_management/doctype/litigation_status/litigation_status.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="27" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
           <folding />
         </state>
       </provider>
