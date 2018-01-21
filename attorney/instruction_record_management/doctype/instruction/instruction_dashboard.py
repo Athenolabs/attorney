@@ -14,30 +14,30 @@ def get_data():
         },
 
 
-		'transactions': [
-			{
-				'label': _('Support'),
-				'items': ['Issue']
-			},
-			{
-				'label': _('Support'),
-				'items': ['Forum locator']
-			},
-			{
-				'label': _('Project'),
-				'items': ['Project']
-			},
-
-
-			# {
-			# 	'label': _('Courts / Forums'),
-			# 	'items': ['Forum locator']
-			# },
-			# {
-			# 	'label': _('Projects'),
-			# 	'items': ['Project']
-			# }
-		]
+		# 'transactions': [
+		# 	{
+		# 		'label': _('Support'),
+		# 		'items': ['Issue']
+		# 	},
+		# 	{
+		# 		'label': _('Support'),
+		# 		'items': ['Forum locator']
+		# 	},
+		# 	{
+		# 		'label': _('Project'),
+		# 		'items': ['Project']
+		# 	},
+        #
+        #
+		# 	# {
+		# 	# 	'label': _('Courts / Forums'),
+		# 	# 	'items': ['Forum locator']
+		# 	# },
+		# 	# {
+		# 	# 	'label': _('Projects'),
+		# 	# 	'items': ['Project']
+		# 	# }
+		# ]
 }
 
 #
