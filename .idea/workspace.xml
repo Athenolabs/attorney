@@ -4,9 +4,7 @@
     <option name="SCOPE_TYPE" value="3" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="38c3062b-a347-40e7-a111-04edb12a38ff" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/attorney/instruction_record_management/doctype/instruction/instruction_list.js" afterPath="$PROJECT_DIR$/attorney/instruction_record_management/doctype/instruction/instruction_list.js" />
-    </list>
+    <list default="true" id="38c3062b-a347-40e7-a111-04edb12a38ff" name="Default" comment="" />
     <ignored path="attorney.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
