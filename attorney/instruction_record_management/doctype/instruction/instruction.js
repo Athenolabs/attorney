@@ -8,60 +8,37 @@ frappe.ui.form.on('Instruction', {
             frm.add_custom_button(__(frm.doc.project), function () {
                 frappe.set_route("Form", "Project", frm.doc.project);
             });
-
         }
-
     }
-
-
 });
 
 
-// This line points to the Sales Invoice Item DocType, meaning that anytime a Sales Invoice Item DocType is loaded, this script will run
-frappe.ui.form.on("Instruction", {
-			// Set the trigger to run the function, which will run in the current form (frm)
-      // The trigger is the "item_code" field within the "Sales Invoice Item" DocType, when it is updated, execute the function
-			"description": function(frm) {
-      //Using the item_code field, get the corresponding value of the "brand" field (From Item DocType, gets the brand matching that item code)
-      //Then set the value of the target field "brand" in Sales Invoice Item to that value.
-      //frm.add_fetch("[LINK FIELD]", "[CORRESPONDING SOURCE FIELD]", "[TARGET FIELD]")
-			frm.add_fetch("todo", "name", "reference_name");
-      }
+//Push Changes to a document from another document.
+//Replace "DocType" with the source DocType
+frappe.ui.form.on("DocType", {
+    //The trigger can be changed, but refresh must be used to use a button
+    refresh: function (frm) {
+        //The following line creates a button.
+        frm.add_custom_button(__("Update"),
+            //The function below is triggered when the button is pressed.
+            function () {
+                frappe.call({
+                    "method": "frappe.client.set_value",
+                    "args": {
+                        //replace "Target DocType" with the actual target doctype
+                        "doctype": "Target DocType",
+                        //replace target_doctype_link with a link to the document to be changed
+                        "name": frm.doc.target_doctype_link,
+                        "fieldname": {
+                            //You can update as many fields as you want.
+                            "target_field_1": frm.doc.source_field_1,
+                            "target_field_2": frm.doc.source_field_2,
+                            "target_field_3": frm.doc.source_field_3,
+                            "target_field_4": frm.doc.source_field_4,
+                            "target_field_5": frm.doc.source_field_5  //Make sure that you do not put a comma over the last value
+                        },
+                    }
+                });
+            });
+    }
 });
-
-
-
-
-
-
-
-
-//
-//
-// // This works but not for "reference_name"
-// frappe.ui.form.on("ToDo", "description", function (frm, cdt, cdn) {
-//     d = locals[cdt][cdn];
-//     d.description = 'Hallo World';
-//     d.reference_type = "Instruction";
-//
-//     // LINKFIELD --
-//     // CORRESPONDING SOURCE FIELD --
-//     // TARGET FIELD --
-//     // frm.add_fetch("", "", "")
-//     d.reference_name = frm.add_fetch("parent", "name", "reference_name")
-// });
-
-
-
-
-
-
-
-
-    // LINKFIELD --
-    // CORRESPONDING SOURCE FIELD --
-    // TARGET FIELD --
-    // frm.add_fetch("", "", "")
-    // d.reference_name = .name
-
-

@@ -2590,7 +2590,7 @@
  "issingle": 0, 
  "istable": 0, 
  "max_attachments": 100, 
- "modified": "2018-04-21 20:37:55.549779", 
+ "modified": "2018-04-22 08:01:18.727413", 
  "modified_by": "Administrator", 
  "module": "Instruction Record Management", 
  "name": "Instruction", 
@@ -2658,7 +2658,7 @@
    "write": 1
   }
  ], 
- "quick_entry": 1, 
+ "quick_entry": 0, 
  "read_only": 0, 
  "read_only_onload": 0, 
  "search_fields": "our_reference,file_description", 
