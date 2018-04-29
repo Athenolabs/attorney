@@ -3,7 +3,7 @@ from __future__ import unicode_literals
 from . import __version__ as app_version
 
 app_name = "attorney"
-app_title = "Instruction Record Management"
+app_title = "Case Analyses"
 # app_title = "Case Analyses and Management"
 app_publisher = "KEA"
 app_description = "Instructions"
