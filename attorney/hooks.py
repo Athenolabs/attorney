@@ -3,11 +3,11 @@ from __future__ import unicode_literals
 from . import __version__ as app_version
 
 app_name = "attorney"
-# app_title = "Instruction Record Management"
-app_title = "Case Analyses and Management"
+app_title = "Instruction Record Management"
+# app_title = "Case Analyses and Management"
 app_publisher = "KEA"
-# app_description = "Instructions"
-app_description = "Case Analyses and Management"
+app_description = "Instructions"
+# app_description = "Case Analyses and Management"
 app_icon = "octicon octicon-file-directory"
 app_color = "grey"
 app_email = "kruger.engelbrecht@gmail.com"
