@@ -3,6 +3,8 @@
 
 frappe.ui.form.on('Instruction', {
     refresh: function (frm) {
+
+
         if (frm.doc.project) {
             // cur_frm.add_custom_button(_('button1'), function()
             frm.add_custom_button(__(frm.doc.project), function () {
@@ -10,10 +12,33 @@ frappe.ui.form.on('Instruction', {
             });
         }
 
-        //"project", "client", "file_description", "our_reference", "instruction_status", "date_instruction_accepted"
-        cur_frm.add_fetch('employee','employee_name','employee_name')
+
     }
+
 });
+
+
+frappe.ui.form.on("Instruction", "update", function (frm, cdt, cdn) {
+
+    frm.refresh_field("client");
+    frm.refresh_field("file_description");
+    frm.refresh_field("our_reference");
+    frm.refresh_field("date_instruction_accepted");
+    frm.refresh_field("instruction_status");
+    frm.refresh_field("date_of_prescription");
+    frm.refresh_field("litigation_status");
+    frm.refresh_field("we_act_for");
+});
+
+
+// project.customer
+// project.project_name
+// project.our_reference
+// project.expected_start_date
+// project.status
+// project.prescription_date
+// project.litigation_status
+// project.litigation_status
 
 
 // //Push Changes to a document from another document.
