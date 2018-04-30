@@ -9,6 +9,9 @@ frappe.ui.form.on('Instruction', {
                 frappe.set_route("Form", "Project", frm.doc.project);
             });
         }
+
+        //"project", "client", "file_description", "our_reference", "instruction_status", "date_instruction_accepted"
+        cur_frm.add_fetch('employee','employee_name','employee_name')
     }
 });
 
