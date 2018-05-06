@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 # Copyright (c) 2017, Kruger Engelbrecht and contributors
-# For license information, please see license.txt and also mine
+# For license information, please see license.txt and also mine and more
 
 from __future__ import unicode_literals
 import frappe
