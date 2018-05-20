@@ -28,6 +28,8 @@ frappe.ui.form.on("Instruction", "update", function (frm, cdt, cdn) {
     frm.refresh_field("date_of_prescription");
     frm.refresh_field("litigation_status");
     frm.refresh_field("we_act_for");
+    frm.refresh_field("court_locator");
+    frm.refresh_field("case_number");
 });
 
 
