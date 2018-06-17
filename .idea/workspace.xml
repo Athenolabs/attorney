@@ -5,7 +5,222 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="38c3062b-a347-40e7-a111-04edb12a38ff" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/attorney.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/attorney.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.ids" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.ids" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MANIFEST.in" beforeDir="false" afterPath="$PROJECT_DIR$/MANIFEST.in" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/address_locator_suburb/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/address_locator_suburb/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/address_locator_suburb/address_locator_suburb.js" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/address_locator_suburb/address_locator_suburb.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/address_locator_suburb/address_locator_suburb.json" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/address_locator_suburb/address_locator_suburb.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/address_locator_suburb/address_locator_suburb.py" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/address_locator_suburb/address_locator_suburb.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/address_locator_suburb/test_address_locator_suburb.js" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/address_locator_suburb/test_address_locator_suburb.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/address_locator_suburb/test_address_locator_suburb.py" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/address_locator_suburb/test_address_locator_suburb.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/attorney/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/attorney/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/attorney/attorney.js" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/attorney/attorney.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/attorney/attorney.json" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/attorney/attorney.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/attorney/attorney.py" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/attorney/attorney.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/attorney/test_attorney.js" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/attorney/test_attorney.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/attorney/test_attorney.py" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/attorney/test_attorney.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/case_law/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/case_law/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/case_law/case_law.json" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/case_law/case_law.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/case_law/case_law.py" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/case_law/case_law.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/common_cause_issues/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/common_cause_issues/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/common_cause_issues/common_cause_issues.json" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/common_cause_issues/common_cause_issues.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/common_cause_issues/common_cause_issues.py" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/common_cause_issues/common_cause_issues.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/contacts_locator/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/contacts_locator/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/contacts_locator/contacts_locator.json" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/contacts_locator/contacts_locator.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/contacts_locator/contacts_locator.py" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/contacts_locator/contacts_locator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/contacts_locator_role/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/contacts_locator_role/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/contacts_locator_role/contacts_locator_role.js" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/contacts_locator_role/contacts_locator_role.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/contacts_locator_role/contacts_locator_role.json" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/contacts_locator_role/contacts_locator_role.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/contacts_locator_role/contacts_locator_role.py" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/contacts_locator_role/contacts_locator_role.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/contacts_locator_role/test_contacts_locator_role.js" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/contacts_locator_role/test_contacts_locator_role.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/contacts_locator_role/test_contacts_locator_role.py" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/contacts_locator_role/test_contacts_locator_role.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/court_address/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/court_address/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/court_address/court_address.js" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/court_address/court_address.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/court_address/court_address.json" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/court_address/court_address.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/court_address/court_address.py" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/court_address/court_address.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/court_address/test_court_address.js" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/court_address/test_court_address.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/court_address/test_court_address.py" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/court_address/test_court_address.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/court_district/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/court_district/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/court_district/court_district.js" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/court_district/court_district.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/court_district/court_district.json" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/court_district/court_district.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/court_district/court_district.py" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/court_district/court_district.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/court_district/test_court_district.js" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/court_district/test_court_district.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/court_district/test_court_district.py" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/court_district/test_court_district.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/court_heard_in/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/court_heard_in/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/court_heard_in/court_heard_in.js" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/court_heard_in/court_heard_in.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/court_heard_in/court_heard_in.json" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/court_heard_in/court_heard_in.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/court_heard_in/court_heard_in.py" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/court_heard_in/court_heard_in.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/court_heard_in/test_court_heard_in.js" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/court_heard_in/test_court_heard_in.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/court_heard_in/test_court_heard_in.py" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/court_heard_in/test_court_heard_in.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/court_held_at/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/court_held_at/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/court_held_at/court_held_at.js" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/court_held_at/court_held_at.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/court_held_at/court_held_at.json" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/court_held_at/court_held_at.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/court_held_at/court_held_at.py" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/court_held_at/court_held_at.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/court_held_at/test_court_held_at.js" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/court_held_at/test_court_held_at.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/court_held_at/test_court_held_at.py" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/court_held_at/test_court_held_at.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/court_official/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/court_official/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/court_official/court_official.js" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/court_official/court_official.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/court_official/court_official.json" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/court_official/court_official.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/court_official/court_official.py" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/court_official/court_official.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/court_official/test_court_official.js" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/court_official/test_court_official.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/court_official/test_court_official.py" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/court_official/test_court_official.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/disputed_issues/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/disputed_issues/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/disputed_issues/disputed_issues.json" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/disputed_issues/disputed_issues.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/disputed_issues/disputed_issues.py" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/disputed_issues/disputed_issues.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/file_type/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/file_type/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/file_type/file_type.js" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/file_type/file_type.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/file_type/file_type.json" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/file_type/file_type.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/file_type/file_type.py" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/file_type/file_type.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/file_type/test_file_type.js" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/file_type/test_file_type.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/file_type/test_file_type.py" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/file_type/test_file_type.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/forum_locator/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/forum_locator/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/forum_locator/forum_locator.js" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/forum_locator/forum_locator.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/forum_locator/forum_locator.json" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/forum_locator/forum_locator.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/forum_locator/forum_locator.py" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/forum_locator/forum_locator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/forum_locator/test_forum_locator.js" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/forum_locator/test_forum_locator.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/forum_locator/test_forum_locator.py" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/forum_locator/test_forum_locator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/instruction/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/instruction/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/instruction/instruction.js" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/instruction/instruction.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/instruction/instruction.json" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/instruction/instruction.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/instruction/instruction.py" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/instruction/instruction.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/instruction/instruction_dashboard.py" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/instruction/instruction_dashboard.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/instruction/instruction_list.js" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/instruction/instruction_list.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/instruction/test_instruction.js" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/instruction/test_instruction.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/instruction/test_instruction.py" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/instruction/test_instruction.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/instruction_brief/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/instruction_brief/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/instruction_brief/instruction_brief.json" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/instruction_brief/instruction_brief.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/instruction_brief/instruction_brief.py" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/instruction_brief/instruction_brief.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/instruction_diary/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/instruction_diary/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/instruction_diary/instruction_diary.json" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/instruction_diary/instruction_diary.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/instruction_diary/instruction_diary.py" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/instruction_diary/instruction_diary.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/instruction_entity/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/instruction_entity/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/instruction_entity/instruction_entity.js" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/instruction_entity/instruction_entity.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/instruction_entity/instruction_entity.json" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/instruction_entity/instruction_entity.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/instruction_entity/instruction_entity.py" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/instruction_entity/instruction_entity.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/instruction_entity/test_instruction_entity.js" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/instruction_entity/test_instruction_entity.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/instruction_entity/test_instruction_entity.py" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/instruction_entity/test_instruction_entity.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/instruction_entity_group/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/instruction_entity_group/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/instruction_entity_group/instruction_entity_group.js" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/instruction_entity_group/instruction_entity_group.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/instruction_entity_group/instruction_entity_group.json" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/instruction_entity_group/instruction_entity_group.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/instruction_entity_group/instruction_entity_group.py" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/instruction_entity_group/instruction_entity_group.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/instruction_entity_group/test_instruction_entity_group.js" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/instruction_entity_group/test_instruction_entity_group.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/instruction_entity_group/test_instruction_entity_group.py" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/instruction_entity_group/test_instruction_entity_group.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/instruction_status/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/instruction_status/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/instruction_status/instruction_status.js" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/instruction_status/instruction_status.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/instruction_status/instruction_status.json" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/instruction_status/instruction_status.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/instruction_status/instruction_status.py" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/instruction_status/instruction_status.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/instruction_status/test_instruction_status.js" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/instruction_status/test_instruction_status.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/instruction_status/test_instruction_status.py" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/instruction_status/test_instruction_status.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/instruction_todo/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/instruction_todo/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/instruction_todo/instruction_todo.js" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/instruction_todo/instruction_todo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/instruction_todo/instruction_todo.json" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/instruction_todo/instruction_todo.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/instruction_todo/instruction_todo.py" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/instruction_todo/instruction_todo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/litigation_status/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/litigation_status/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/litigation_status/litigation_status.js" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/litigation_status/litigation_status.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/litigation_status/litigation_status.json" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/litigation_status/litigation_status.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/litigation_status/litigation_status.py" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/litigation_status/litigation_status.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/litigation_status/test_litigation_status.js" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/litigation_status/test_litigation_status.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/litigation_status/test_litigation_status.py" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/litigation_status/test_litigation_status.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/locator_address_area/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/locator_address_area/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/locator_address_area/locator_address_area.js" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/locator_address_area/locator_address_area.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/locator_address_area/locator_address_area.json" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/locator_address_area/locator_address_area.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/locator_address_area/locator_address_area.py" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/locator_address_area/locator_address_area.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/locator_address_area/test_locator_address_area.js" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/locator_address_area/test_locator_address_area.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/locator_address_area/test_locator_address_area.py" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/locator_address_area/test_locator_address_area.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/locator_address_city/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/locator_address_city/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/locator_address_city/locator_address_city.js" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/locator_address_city/locator_address_city.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/locator_address_city/locator_address_city.json" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/locator_address_city/locator_address_city.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/locator_address_city/locator_address_city.py" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/locator_address_city/locator_address_city.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/locator_address_city/test_locator_address_city.js" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/locator_address_city/test_locator_address_city.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/locator_address_city/test_locator_address_city.py" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/locator_address_city/test_locator_address_city.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/locator_address_district/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/locator_address_district/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/locator_address_district/locator_address_district.js" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/locator_address_district/locator_address_district.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/locator_address_district/locator_address_district.json" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/locator_address_district/locator_address_district.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/locator_address_district/locator_address_district.py" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/locator_address_district/locator_address_district.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/locator_address_district/test_locator_address_district.js" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/locator_address_district/test_locator_address_district.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/locator_address_district/test_locator_address_district.py" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/locator_address_district/test_locator_address_district.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/locator_address_municipality/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/locator_address_municipality/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/locator_address_municipality/locator_address_municipality.js" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/locator_address_municipality/locator_address_municipality.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/locator_address_municipality/locator_address_municipality.json" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/locator_address_municipality/locator_address_municipality.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/locator_address_municipality/locator_address_municipality.py" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/locator_address_municipality/locator_address_municipality.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/locator_address_municipality/test_locator_address_municipality.js" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/locator_address_municipality/test_locator_address_municipality.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/locator_address_municipality/test_locator_address_municipality.py" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/locator_address_municipality/test_locator_address_municipality.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/locator_address_province/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/locator_address_province/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/locator_address_province/locator_address_province.js" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/locator_address_province/locator_address_province.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/locator_address_province/locator_address_province.json" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/locator_address_province/locator_address_province.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/locator_address_province/locator_address_province.py" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/locator_address_province/locator_address_province.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/locator_address_province/test_locator_address_province.js" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/locator_address_province/test_locator_address_province.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/locator_address_province/test_locator_address_province.py" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/locator_address_province/test_locator_address_province.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/locator_address_service/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/locator_address_service/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/locator_address_service/locator_address_service.js" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/locator_address_service/locator_address_service.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/locator_address_service/locator_address_service.json" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/locator_address_service/locator_address_service.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/locator_address_service/locator_address_service.py" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/locator_address_service/locator_address_service.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/locator_address_service/test_locator_address_service.js" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/locator_address_service/test_locator_address_service.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/locator_address_service/test_locator_address_service.py" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/locator_address_service/test_locator_address_service.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/locator_address_suburb/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/locator_address_suburb/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/locator_address_suburb/locator_address_suburb.js" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/locator_address_suburb/locator_address_suburb.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/locator_address_suburb/locator_address_suburb.json" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/locator_address_suburb/locator_address_suburb.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/locator_address_suburb/locator_address_suburb.py" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/locator_address_suburb/locator_address_suburb.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/locator_address_suburb/test_locator_address_suburb.js" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/locator_address_suburb/test_locator_address_suburb.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/locator_address_suburb/test_locator_address_suburb.py" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/locator_address_suburb/test_locator_address_suburb.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/onstruction_brief/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/onstruction_brief/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/onstruction_brief/onstruction_brief.json" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/onstruction_brief/onstruction_brief.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/onstruction_brief/onstruction_brief.py" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/onstruction_brief/onstruction_brief.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/outstanding_discovery_documents/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/outstanding_discovery_documents/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/outstanding_discovery_documents/outstanding_discovery_documents.json" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/outstanding_discovery_documents/outstanding_discovery_documents.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/outstanding_discovery_documents/outstanding_discovery_documents.py" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/outstanding_discovery_documents/outstanding_discovery_documents.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/pleadings_bundle/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/pleadings_bundle/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/pleadings_bundle/pleadings_bundle.json" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/pleadings_bundle/pleadings_bundle.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/pleadings_bundle/pleadings_bundle.py" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/pleadings_bundle/pleadings_bundle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/type_of_case/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/type_of_case/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/type_of_case/test_type_of_case.js" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/type_of_case/test_type_of_case.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/type_of_case/test_type_of_case.py" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/type_of_case/test_type_of_case.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/type_of_case/type_of_case.js" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/type_of_case/type_of_case.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/type_of_case/type_of_case.json" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/type_of_case/type_of_case.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/type_of_case/type_of_case.py" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/type_of_case/type_of_case.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/type_of_instruction/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/type_of_instruction/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/type_of_instruction/test_type_of_instruction.js" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/type_of_instruction/test_type_of_instruction.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/type_of_instruction/test_type_of_instruction.py" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/type_of_instruction/test_type_of_instruction.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/type_of_instruction/type_of_instruction.js" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/type_of_instruction/type_of_instruction.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/type_of_instruction/type_of_instruction.json" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/type_of_instruction/type_of_instruction.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/type_of_instruction/type_of_instruction.py" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/type_of_instruction/type_of_instruction.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/we_act_for/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/we_act_for/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/we_act_for/test_we_act_for.js" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/we_act_for/test_we_act_for.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/we_act_for/test_we_act_for.py" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/we_act_for/test_we_act_for.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/we_act_for/we_act_for.js" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/we_act_for/we_act_for.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/we_act_for/we_act_for.json" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/we_act_for/we_act_for.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/doctype/we_act_for/we_act_for.py" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/doctype/we_act_for/we_act_for.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/print_format/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/print_format/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/print_format/custom_print_format_for_instruction/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/print_format/custom_print_format_for_instruction/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/print_format/custom_print_format_for_instruction/custom_print_format_for_instruction.json" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/print_format/custom_print_format_for_instruction/custom_print_format_for_instruction.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/print_format/further_custom_print_format/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/print_format/further_custom_print_format/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/case_analyses/print_format/further_custom_print_format/further_custom_print_format.json" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/case_analyses/print_format/further_custom_print_format/further_custom_print_format.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/config/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/config/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/config/desktop.py" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/config/desktop.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/config/docs.py" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/config/docs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/fixtures/custom_field.json" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/fixtures/custom_field.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/hooks.py" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/hooks.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/modules.txt" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/modules.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/patches.txt" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/patches.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/templates/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/templates/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attorney/templates/pages/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/attorney/templates/pages/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/license.txt" beforeDir="false" afterPath="$PROJECT_DIR$/license.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/setup.py" afterDir="false" />
     </list>
     <ignored path="attorney.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -17,7 +232,6 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
@@ -38,62 +252,14 @@
       </PATH_ELEMENT>
     </PATH>
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
     <favorites_list name="attorney" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="instruction.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/attorney/case_analyses/doctype/instruction/instruction.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="instruction.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/attorney/case_analyses/doctype/instruction/instruction.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="instruction.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/attorney/case_analyses/doctype/instruction/instruction.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="5445">
-              <caret line="363" column="28" selection-start-line="363" selection-start-column="28" selection-end-line="363" selection-end-column="28" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="hooks.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/attorney/hooks.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="instruction_list.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/attorney/case_analyses/doctype/instruction/instruction_list.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="28" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
-              <folding />
-            </state>
-          </provider>
+      <file leaf-file-name="attorney.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/attorney/case_analyses/doctype/attorney/attorney.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -171,7 +337,7 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="15" />
-    <option name="y" value="21" />
+    <option name="y" value="27" />
     <option name="width" value="1346" />
     <option name="height" value="738" />
   </component>
@@ -194,167 +360,106 @@
       </profile-state>
     </entry>
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
-    <OptionsSetting value="true" id="Add" />
-    <OptionsSetting value="true" id="Remove" />
-    <OptionsSetting value="true" id="Checkout" />
-    <OptionsSetting value="true" id="Update" />
-    <OptionsSetting value="true" id="Status" />
-    <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
-    <ConfirmationsSetting value="0" id="Remove" />
-  </component>
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
-      <flattenPackages />
-      <showMembers />
-      <showModules />
-      <showLibraryContents />
-      <hideEmptyPackages />
-      <abbreviatePackageNames />
-      <autoscrollToSource />
-      <autoscrollFromSource />
-      <sortByType />
-      <manualOrder />
+    <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
       <pane id="ProjectPane">
         <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="attorney" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="attorney" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="attorney" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="attorney" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="attorney" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="attorney" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="attorney" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="attorney" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="attorney" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="templates" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="attorney" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="attorney" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="attorney" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="case_analyses" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="attorney" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="attorney" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="attorney" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="case_analyses" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="doctype" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="attorney" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="attorney" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="attorney" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="case_analyses" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="doctype" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="instruction" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
+          <expand>
+            <path>
+              <item name="attorney" type="b2602c69:ProjectViewProjectNode" />
+              <item name="attorney" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="attorney" type="b2602c69:ProjectViewProjectNode" />
+              <item name="attorney" type="462c0819:PsiDirectoryNode" />
+              <item name="attorney" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="attorney" type="b2602c69:ProjectViewProjectNode" />
+              <item name="attorney" type="462c0819:PsiDirectoryNode" />
+              <item name="attorney" type="462c0819:PsiDirectoryNode" />
+              <item name="case_analyses" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="attorney" type="b2602c69:ProjectViewProjectNode" />
+              <item name="attorney" type="462c0819:PsiDirectoryNode" />
+              <item name="attorney" type="462c0819:PsiDirectoryNode" />
+              <item name="case_analyses" type="462c0819:PsiDirectoryNode" />
+              <item name="doctype" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="attorney" type="b2602c69:ProjectViewProjectNode" />
+              <item name="attorney" type="462c0819:PsiDirectoryNode" />
+              <item name="attorney" type="462c0819:PsiDirectoryNode" />
+              <item name="case_analyses" type="462c0819:PsiDirectoryNode" />
+              <item name="doctype" type="462c0819:PsiDirectoryNode" />
+              <item name="attorney" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="js-jscs-nodeInterpreter" value="/usr/bin/node" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/attorney/instruction_record_management/doctype/instruction_entity" />
-    <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/bin/node" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/attorney/instruction_record_management/doctype" />
     </key>
   </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
   <component name="RunManager">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="attorney" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <module name="attorney" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+    </configuration>
     <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -406,37 +511,6 @@
       <option name="ADDITIONAL_ARGS" value="" />
       <method />
     </configuration>
-    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="attorney" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="true" type="Tox" factoryName="Tox">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <module name="attorney" />
-      <method />
-    </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
       <node-interpreter>project</node-interpreter>
       <node-options />
@@ -474,15 +548,14 @@
       <method />
     </configuration>
     <configuration default="true" type="tests" factoryName="Doctests">
+      <module name="attorney" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs />
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="attorney" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="" />
       <option name="CLASS_NAME" value="" />
@@ -491,81 +564,51 @@
       <option name="TEST_TYPE" value="TEST_SCRIPT" />
       <option name="PATTERN" value="" />
       <option name="USE_PATTERN" value="false" />
-      <method />
     </configuration>
     <configuration default="true" type="tests" factoryName="Nosetests">
+      <module name="attorney" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs />
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="attorney" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <option name="PARAMS" value="" />
-      <option name="USE_PARAM" value="false" />
-      <method />
+      <option name="_new_regexPattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
     </configuration>
     <configuration default="true" type="tests" factoryName="Unittests">
+      <module name="attorney" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs />
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="attorney" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <option name="PUREUNITTEST" value="true" />
-      <option name="PARAMS" value="" />
-      <option name="USE_PARAM" value="false" />
-      <method />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
     </configuration>
     <configuration default="true" type="tests" factoryName="py.test">
+      <module name="attorney" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs />
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="attorney" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <option name="testToRun" value="" />
-      <option name="keywords" value="" />
-      <option name="params" value="" />
-      <option name="USE_PARAM" value="false" />
-      <option name="USE_KEYWORD" value="false" />
-      <method />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
     </configuration>
-  </component>
-  <component name="ShelveChangesManager" show_recycled="false">
-    <option name="remove_strategy" value="false" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -590,47 +633,46 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="15" y="21" width="1346" height="738" extended-state="1" />
-    <editor active="true" />
+    <frame x="15" y="27" width="1346" height="738" extended-state="0" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34739265" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32903227" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32988048" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24940239" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19354838" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34154353" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.34695393" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32903227" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Python Console" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.24940239" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.19354838" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" weight="0.32988048" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.34154353" />
     </layout>
     <layout-to-restore>
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32903227" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25896415" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3419355" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25896415" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32903227" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.3419355" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Python Console" order="8" />
     </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -644,33 +686,14 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager />
-    <watches-manager />
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/attorney/case_analyses/doctype/we_act_for/we_act_for.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="536">
-          <caret line="71" column="18" selection-start-line="71" selection-start-column="18" selection-end-line="71" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/attorney/instruction_record_management/doctype/instruction_entity/regional/india.js" />
     <entry file="file://$PROJECT_DIR$/attorney/case_analyses/doctype/instruction_entity/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/attorney/instruction_record_management/doctype/instruction_entity/test_records.json" />
     <entry file="file://$PROJECT_DIR$/attorney/case_analyses/doctype/instruction_entity/test_instruction_entity.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/attorney/case_analyses/doctype/instruction_entity/instruction_entity.js">
       <provider selected="true" editor-type-id="text-editor">
@@ -680,117 +703,45 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/attorney/case_analyses/doctype/instruction_entity/test_instruction_entity.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/attorney/instruction_record_management/doctype/instruction_entity/README.md" />
     <entry file="file://$PROJECT_DIR$/attorney/instruction_record_management/doctype/instruction_entity/instruction_entity_list.js" />
     <entry file="file://$PROJECT_DIR$/attorney/instruction_record_management/doctype/instruction_entity/instruction_entity_dashboard.py" />
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/e4c04569-6c77-4f5d-bfac-e13afeb5bf3c/console.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/e4c04569-6c77-4f5d-bfac-e13afeb5bf3c/console.sql" />
     <entry file="file://$PROJECT_DIR$/attorney/case_analyses/doctype/instruction_entity/instruction_entity.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1170">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
+        <state relative-caret-position="-1170" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/attorney/case_analyses/doctype/instruction_entity_group/instruction_entity_group.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/attorney/case_analyses/doctype/instruction_entity_group/test_instruction_entity_group.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/attorney/case_analyses/doctype/instruction_entity_group/test_instruction_entity_group.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/attorney/case_analyses/doctype/instruction_entity/instruction_entity.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="900">
-          <caret line="60" column="0" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
+          <caret line="60" selection-start-line="60" selection-end-line="60" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../frappe/frappe/desk/doctype/todo/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="20" selection-start-line="0" selection-start-column="20" selection-end-line="0" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../erpnext/erpnext/hr/doctype/appraisal/appraisal.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-487">
-          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../erpnext/erpnext/projects/doctype/project/project.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3720">
-          <caret line="256" column="84" selection-start-line="256" selection-start-column="80" selection-end-line="256" selection-end-column="84" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../frappe/frappe/desk/doctype/todo/todo.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-4185">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../erpnext/erpnext/projects/doctype/project/project_list.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="70" selection-start-line="7" selection-start-column="70" selection-end-line="7" selection-end-column="70" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../frappe/frappe/desk/doctype/todo/todo_list.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="87" selection-start-line="12" selection-start-column="87" selection-end-line="12" selection-end-column="87" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../frappe/frappe/desk/doctype/todo/todo.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="47" selection-start-line="23" selection-start-column="47" selection-end-line="23" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../frappe/frappe/desk/doctype/todo/todo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1">
-          <caret line="26" column="36" selection-start-line="26" selection-start-column="36" selection-end-line="26" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../frappe/frappe/desk/doctype/todo/README.md" />
+    <entry file="file://$PROJECT_DIR$/../erpnext/erpnext/hr/doctype/appraisal/appraisal.js" />
+    <entry file="file://$PROJECT_DIR$/../erpnext/erpnext/projects/doctype/project/project.py" />
+    <entry file="file://$PROJECT_DIR$/../frappe/frappe/desk/doctype/todo/todo.json" />
+    <entry file="file://$PROJECT_DIR$/../erpnext/erpnext/projects/doctype/project/project_list.js" />
+    <entry file="file://$PROJECT_DIR$/../frappe/frappe/desk/doctype/todo/todo_list.js" />
+    <entry file="file://$PROJECT_DIR$/../frappe/frappe/desk/doctype/todo/todo.js" />
+    <entry file="file://$PROJECT_DIR$/../frappe/frappe/desk/doctype/todo/todo.py" />
     <entry file="file://$PROJECT_DIR$/attorney/case_analyses/doctype/instruction_todo/instruction_todo.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
-          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
@@ -817,17 +768,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="3" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="3" />
+        <state>
+          <caret column="3" selection-start-column="3" selection-end-column="3" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/attorney/case_analyses/doctype/address_locator_suburb/address_locator_suburb.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/attorney/case_analyses/doctype/address_locator_suburb/address_locator_suburb.json">
       <provider selected="true" editor-type-id="text-editor">
@@ -837,32 +784,16 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/attorney/case_analyses/doctype/address_locator_suburb/address_locator_suburb.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/attorney/case_analyses/doctype/address_locator_suburb/test_address_locator_suburb.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/attorney/case_analyses/doctype/address_locator_suburb/test_address_locator_suburb.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/attorney/case_analyses/doctype/instruction/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/attorney/case_analyses/doctype/instruction/instruction_dashboard.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -874,7 +805,7 @@
     <entry file="file://$PROJECT_DIR$/attorney/case_analyses/doctype/instruction/test_instruction.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
-          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
@@ -886,53 +817,29 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/attorney/case_analyses/print_format/custom_print_format_for_instruction/custom_print_format_for_instruction.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/attorney/case_analyses/print_format/further_custom_print_format/further_custom_print_format.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/attorney/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/attorney/modules.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="13" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/attorney/patches.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/setup.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/requirements.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/attorney/fixtures/custom_field.json">
       <provider selected="true" editor-type-id="text-editor">
@@ -941,21 +848,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/attorney/case_analyses/doctype/instruction/instruction.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/attorney/case_analyses/doctype/instruction/instruction.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -963,7 +859,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="28" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -971,17 +866,25 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="5445">
           <caret line="363" column="28" selection-start-line="363" selection-start-column="28" selection-end-line="363" selection-end-column="28" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/attorney/hooks.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
+        <state relative-caret-position="-660">
           <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
-          <folding />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/attorney/case_analyses/doctype/instruction/instruction.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/attorney/case_analyses/doctype/attorney/attorney.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
