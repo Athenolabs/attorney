@@ -1256,7 +1256,7 @@
  "issingle": 0, 
  "istable": 0, 
  "max_attachments": 100, 
- "modified": "2018-07-01 12:38:04.015810", 
+ "modified": "2018-07-10 07:08:49.118496", 
  "modified_by": "Administrator", 
  "module": "Case Analyses", 
  "name": "Instruction", 
@@ -1373,6 +1373,6 @@
  "sort_order": "DESC", 
  "timeline_field": "project", 
  "title_field": "file_description", 
- "track_changes": 1, 
+ "track_changes": 0, 
  "track_seen": 1
 }
