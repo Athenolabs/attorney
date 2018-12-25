@@ -15,7 +15,7 @@ app_license = "MIT"
 
 # fixtures = ["Custom Field","DocType","Custom Script", "Property Setter", "Print Format"]
 
-fixtures = ["Custom Field","DocType", "Print Format"]
+fixtures = ["Custom Field","Sales Invoice", "Print Format"]
 
 
 
