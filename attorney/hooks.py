@@ -13,7 +13,9 @@ app_color = "grey"
 app_email = "kruger.engelbrecht@gmail.com"
 app_license = "MIT"
 
-fixtures = ["Custom Field"]
+fixtures = ["Custom Field","DocType","Custom Script", "Property Setter", "Print Format"]
+
+
 
 
 # Includes in <head>
